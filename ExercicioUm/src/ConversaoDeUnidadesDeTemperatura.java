@@ -101,6 +101,9 @@ public class ConversaoDeUnidadesDeTemperatura {
                 System.out.printf("Bye!\n");
                 break;
             }
+            else {
+                System.out.printf("Coloque algo valido!\n\n");
+            }
         }
         scanner.close();
     }
